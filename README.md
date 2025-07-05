@@ -21,4 +21,8 @@ This is a simple command-line application written in C to convert temperatures b
    ./temp_converter
    ```
 
+## 📃License
+
+  See included [LICENSE](./LICENSE) file for more details.
+
 ## Author:- Silven Mohan
