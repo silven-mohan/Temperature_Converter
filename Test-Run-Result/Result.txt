@@ -5,29 +5,35 @@ Test Run Result:
 	B. Fahrenheit to Celsius/ Celsius to Fahrenheit
 	C. Kelvin to Fahrenheit/ Fahrenheit to Kelvin
 	1. Celsius to Kelvin
-	2. Kelvin to CelsiusEnter the temperature in Celsius:27.00 C= 300.15 KDo you want to Continue(Y/N)
+	2. Kelvin to Celsius
+Enter the temperature in Celsius:27.00 C= 300.15 KDo you want to Continue(Y/N)
 	A. Celsius to Kelvin/ Kelvin to Celsius
 	B. Fahrenheit to Celsius/ Celsius to Fahrenheit
 	C. Kelvin to Fahrenheit/ Fahrenheit to Kelvin
 	1. Celsius to Kelvin
-	2. Kelvin to CelsiusEnter the temperature in Kelvin:300.00 K= 26.85 CDo you want to Continue(Y/N)
+	2. Kelvin to Celsius
+Enter the temperature in Kelvin:300.00 K= 26.85 CDo you want to Continue(Y/N)
 	A. Celsius to Kelvin/ Kelvin to Celsius
 	B. Fahrenheit to Celsius/ Celsius to Fahrenheit
 	C. Kelvin to Fahrenheit/ Fahrenheit to Kelvin
 	1. Fahrenheit to Celsius
-	2. Celsius to FahrenheitEnter the temperature in Fahrenheit:101.00 F= 0.00 CDo you want to Continue(Y/N)
+	2. Celsius to Fahrenheit
+Enter the temperature in Fahrenheit:101.00 F= 0.00 CDo you want to Continue(Y/N)
 	A. Celsius to Kelvin/ Kelvin to Celsius
 	B. Fahrenheit to Celsius/ Celsius to Fahrenheit
 	C. Kelvin to Fahrenheit/ Fahrenheit to Kelvin
 	1. Fahrenheit to Celsius
-	2. Celsius to FahrenheitEnter the temperature in Celsius:39.00 C= 102.20 FDo you want to Continue(Y/N)
+	2. Celsius to Fahrenheit
+Enter the temperature in Celsius:39.00 C= 102.20 FDo you want to Continue(Y/N)
 	A. Celsius to Kelvin/ Kelvin to Celsius
 	B. Fahrenheit to Celsius/ Celsius to Fahrenheit
 	C. Kelvin to Fahrenheit/ Fahrenheit to Kelvin
 	1. Kelvin to Fahrenheit
-	2. Fahrenheit to KelvinEnter the temperature in Kelvin:200.00 K= -99.67 FDo you want to Continue(Y/N)
+	2. Fahrenheit to Kelvin
+Enter the temperature in Kelvin:200.00 K= -99.67 FDo you want to Continue(Y/N)
 	A. Celsius to Kelvin/ Kelvin to Celsius
 	B. Fahrenheit to Celsius/ Celsius to Fahrenheit
 	C. Kelvin to Fahrenheit/ Fahrenheit to Kelvin
 	1. Kelvin to Fahrenheit
-	2. Fahrenheit to KelvinEnter the temperature in Fahrenheit:101.00 F= 311.48 KDo you want to Continue(Y/N)
+	2. Fahrenheit to Kelvin
+Enter the temperature in Fahrenheit:101.00 F= 311.48 KDo you want to Continue(Y/N)
