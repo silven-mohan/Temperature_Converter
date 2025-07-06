@@ -5,10 +5,11 @@
 
 int main()
 {
+	char choice;
 	do
 		{
 			int chI;
-			char ch, choice;
+			char ch;
 			float C, K, F;
 			// system("cls");
 			printf("\n\tA. Celsius to Kelvin/ Kelvin to Celsius");
