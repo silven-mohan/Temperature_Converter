@@ -26,13 +26,13 @@ int main()
 						switch(chI)
 						{
 							case 1:
-									printf("Enter the temperature in Celsius:");
+									printf("\nEnter the temperature in Celsius:");
 									scanf("%f", &C);
 									// system("cls");
 									printf("%.2f C= %.2f K", C, C+273.15);
 										break;
 							case 2:
-									printf("Enter the temperature in Kelvin:");
+									printf("\nEnter the temperature in Kelvin:");
 									scanf("%f", &K);
 									// system("cls");
 									printf("%.2f K= %.2f C", K, K-273.15);
@@ -48,13 +48,13 @@ int main()
 						switch(chI)
 						{
 							case 1:
-									printf("Enter the temperature in Fahrenheit:");
+									printf("\nEnter the temperature in Fahrenheit:");
 									scanf("%f", &F);
 									// system("cls");
 									printf("%.2f F= %.2f C", F, 5/9*(F-32));
 										break;
 							case 2:
-									printf("Enter the temperature in Celsius:");
+									printf("\nEnter the temperature in Celsius:");
 									scanf("%f", &C);
 									// system("cls");
 									printf("%.2f C= %.2f F", C, (C*9/5)+32);
@@ -70,13 +70,13 @@ int main()
 						switch(chI)
 						{
 							case 1:
-									printf("Enter the temperature in Kelvin:");
+									printf("\nEnter the temperature in Kelvin:");
 									scanf("%f", &K);
 									// system("cls");
 									printf("%.2f K= %.2f F", K, ((K-273.15)*9/5)+32);
 										break;
 							case 2:
-									printf("Enter the temperature in Fahrenheit:");
+									printf("\nEnter the temperature in Fahrenheit:");
 									scanf("%f", &F);
 									// system("cls");
 									printf("%.2f F= %.2f K", F, ((F-32)*5/9)+273.15);
