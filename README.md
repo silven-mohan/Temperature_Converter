@@ -1,5 +1,8 @@
 # 🌡️ Temperature_Converter
 
+![CI](https://github.com/silven-mohan/Temperature_Converter/actions/workflows/.github/workflows/main.yml/badge.svg)
+
+-----
 This is a simple command-line application written in C to convert temperatures between:
 
 - Celsius and Kelvin
